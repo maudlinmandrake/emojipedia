@@ -1,24 +1,24 @@
 const emojipedia = [
   {
     id: 1,
-    emoji: "💪",
-    name: "Tense Biceps",
+    emoji: "🔮 📖 🎯🙇 🔮",
+    name: "Focus Spell",
     meaning:
-      "“You can do that!” or “I feel strong!” Arm with tense biceps. Also used in connection with doing sports, e.g. at the gym."
+      "For improved focus while studying, performing deep work, working on a large project. Tweet it or send to a friend."
   },
   {
     id: 2,
-    emoji: "🙏",
-    name: "Person With Folded Hands",
+    emoji: "🔮 🔆 🎨 ✍🔮 ",
+    name: "Creativity Spell",
     meaning:
-      "Two hands pressed together. Is currently very introverted, saying a prayer, or hoping for enlightenment. Is also used as a “high five” or to say thank you."
+      "To improve one's creativity; to coax the muse out when in one's art or work space"
   },
   {
     id: 3,
-    emoji: "🤣",
-    name: "Rolling On The Floor, Laughing",
+    emoji: "🔮 💡 🏆 💰 🔮",
+    name: "Prosperity Spell",
     meaning:
-      "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+      "Tailor this one based on how you'd like money to enter into your life: a new job, getting better about saving, asking for a promotion at work, etc. State your goal before sending this one."
   }
 ];
 

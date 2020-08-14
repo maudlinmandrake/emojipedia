@@ -1,5 +1,11 @@
 const emojipedia = [
   {
+    id: 0,
+    emoji: "",
+    name: "How to use these",
+    meaning: "To cast an emoji spell, cleanse and ground yourself. Then, you have several options for casting: send the emoji to yourself (text yourself, DM yourself on Twitter), or share publically so that likes and hearts can charge it for you (if you're comfortable with this)."
+  },
+  {
     id: 1,
     emoji: "🔮 📖 🎯🙇 🔮",
     name: "Focus Spell",

@@ -1,7 +1,7 @@
 {
   "name": "emoji-spellbook",
   "version": "1.0.0",
-  "description": "",
+  "description": "Digital spellcasting for the modern witch!",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
